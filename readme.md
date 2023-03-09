@@ -1,4 +1,4 @@
-# Meus Links
+# Meus Links(LinksSociais)
 
 Este é um projeto de lista de links desenvolvido utilizando HTML e CSS. O objetivo do projeto foi criar uma página web que apresente uma lista de links úteis para outras páginas e perfis em redes sociais.
 
