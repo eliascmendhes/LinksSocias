@@ -9,9 +9,9 @@ Este é um projeto de lista de links desenvolvido utilizando HTML e CSS. O objet
 
 ## 🔧 Requisitos do projeto
 
-- Adicionar uma imagem de perfil
-- Adicionar uma lista de links que pode ser usada para enviar o usuário para outros sites
-- Adicionar ícones com links para outras redes sociais (opcional)
+- Uma imagem de perfil
+- Uma lista de links que pode ser usada para enviar o usuário para outros sites
+- Usar ícones com links para outras redes sociais
 
 ## 🎨 Style Guide
 
